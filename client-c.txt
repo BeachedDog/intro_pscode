@@ -1,4 +1,8 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+1. determine the number of packages.
+2. instantiate a variable  called counter that starts at 0.
+3. for every other package, print the package number.
+4. increase the counter by two for every occurrance of line #3.
+5. once the counter hits  50, break from the loop

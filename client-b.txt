@@ -1,4 +1,9 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+1. ask the customer what location they would like to walk to.
+2. determine the customers starting position.
+3. determine the layout of the warehouse (shelving, things in between the starting position and ending position)
+4. determine shortest distance between starting and ending position using only north, south, east, and west without running into objects.
+5. move along the shortest route until the destination is reached.  
+6. repeat these steps if there are more items.

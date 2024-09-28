@@ -1,4 +1,13 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+1. create a list of numbers 1 - 10
+2. randomly choose a number from the list'
+3.create a counter for the players guesses
+4. ask the player what their guess is
+5. if the guess is correct, tell the player that they won. if the guess
+    if incorrect, tell the player to guess again.
+6. increase the guess counter number by 1.
+7. repeat steps 4-6 until either the number is guessed, or the player reaches 3 guesses.
+8. if the player does not guess the number in 3 guesses, tell the player what the number was.
 
